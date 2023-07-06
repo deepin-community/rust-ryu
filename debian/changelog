@@ -1,5 +1,23 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-ryu (1.0.2-1) unstable; urgency=medium
 
-  * Initial release
+  * Package ryu 1.0.2 from crates.io using debcargo 2.4.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Sat, 09 Nov 2019 06:49:08 +0100
+
+rust-ryu (1.0.0-1) unstable; urgency=medium
+
+  * Package ryu 1.0.0 from crates.io using debcargo 2.4.0
+
+ -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Fri, 09 Aug 2019 19:12:28 +0200
+
+rust-ryu (0.2.7-1) unstable; urgency=medium
+
+  * Package ryu 0.2.7 from crates.io using debcargo 2.2.9
+
+ -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Sun, 02 Dec 2018 11:54:36 +0100
+
+rust-ryu (0.2.6-1) unstable; urgency=medium
+
+  * Package ryu 0.2.6 from crates.io using debcargo 2.2.7
+
+ -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Thu, 04 Oct 2018 12:00:39 +0200
